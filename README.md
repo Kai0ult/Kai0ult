@@ -1,8 +1,8 @@
-<img align="right" height="100" src="https://media.tenor.com/nE9laAoTsBEAAAAi/luffy-gear-5-laughing-sticker.gif"  />
+<h2 align="left">Olá eu sou Caio Souza 👋</h2>
 
 ###
 
-<h2 align="left">Olá eu sou Caio Souza 👋</h2>
+<img align="right" height="100" src="https://media.tenor.com/nE9laAoTsBEAAAAi/luffy-gear-5-laughing-sticker.gif"  />
 
 ###
 
