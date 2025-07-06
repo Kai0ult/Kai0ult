@@ -2,17 +2,16 @@
 
 <!-- Container horizontal: Gráficos + Luffy -->
 <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
+  <!-- Imagem do Luffy à direita dos gráficos -->
+  <div float="right" align="right" style="margin-left: 20px;">
+    <img src="https://i.pinimg.com/originals/67/2d/e0/672de06c2843a731a5451ba547f27403.gif" style="height: 100px;" alt="Luffy Gear 5" />
+  </div>
 
   <!-- Bloco dos gráficos -->
   <div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Kai0ult&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" />
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kai0ult&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="200" />
-  </div>
-
-  <!-- Imagem do Luffy à direita dos gráficos -->
-  <div float="right" align="right" style="margin-left: 20px;">
-    <img src="https://i.pinimg.com/originals/67/2d/e0/672de06c2843a731a5451ba547f27403.gif" style="height: 100px;" alt="Luffy Gear 5" />
   </div>
 
 </div>
