@@ -4,7 +4,7 @@
 <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
   <!-- Imagem do Luffy à direita dos gráficos -->
   <div float="right" align="right" style="margin-left: 20px;">
-    <img src="https://i.pinimg.com/originals/67/2d/e0/672de06c2843a731a5451ba547f27403.gif" style="height: 100px;" alt="Luffy Gear 5" />
+    <img src="[https://i.pinimg.com/originals/67/2d/e0/672de06c2843a731a5451ba547f27403.gif](https://media.tenor.com/nE9laAoTsBEAAAAj/luffy-gear-5-laughing-sticker.gif)" style="height: 100px;" alt="Luffy Gear 5" />
   </div>
 
   <!-- Bloco dos gráficos -->
