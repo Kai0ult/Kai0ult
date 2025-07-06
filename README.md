@@ -43,7 +43,7 @@
 
   <!-- Coluna Direita (Imagem do Luffy) -->
   <div style="margin-left: 20px;">
-    <img src="https://media.tenor.com/nE9laAoTsBEAAAAi/luffy-gear-5-laughing-sticker.gif" height="200" alt="Luffy Gear 5" />
+    <img src="https://media.tenor.com/nE9laAoTsBEAAAAi/luffy-gear-5-laughing-sticker.gif" height="10" alt="Luffy Gear 5" />
   </div>
 
 </div>
