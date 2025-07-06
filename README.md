@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="100" src="https://media.tenor.com/nE9laAoTsBEAAAAi/luffy-gear-5-laughing-sticker.gif"  />
+<img align="right" height="50" src="https://media.tenor.com/nE9laAoTsBEAAAAi/luffy-gear-5-laughing-sticker.gif"  />
 
 ###
 
