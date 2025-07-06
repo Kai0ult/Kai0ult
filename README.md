@@ -12,7 +12,7 @@
 
   <!-- Imagem do Luffy à direita dos gráficos -->
   <div style="margin-left: 20px;">
-    <img src="https://i.pinimg.com/originals/67/2d/e0/672de06c2843a731a5451ba547f27403.gif" style="height: 200px;" alt="Luffy Gear 5" />
+    <img src="https://i.pinimg.com/originals/67/2d/e0/672de06c2843a731a5451ba547f27403.gif" style="height: 20px;" alt="Luffy Gear 5" />
   </div>
 
 </div>
