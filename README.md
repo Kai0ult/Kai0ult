@@ -20,7 +20,7 @@
 <br>
 
 <!-- Skills -->
-<div>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" />
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=css" height="40" />
